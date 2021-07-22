@@ -1,0 +1,33 @@
+html {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+header h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.colors {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid white;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.electricblue {
+    background-color: #7DF9FF;
+    color: black;
+}
+
+.darkpurple {
+    background-color: #551A8B;
+}
+
+.tyrianpurple {
+    background-color: #66023C;
+}
+
+.bloodred {
+    background-color: #880808;
+}
