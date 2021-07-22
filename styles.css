@@ -45,10 +45,12 @@ header h1 {
 
 .spacemono {
     font-family: 'Space Mono';
+    padding-bottom: 1px;
 }
 
 .vollkorn {
     font-family: 'Vollkorn';
+    padding-bottom: 1px;
 }
 
 .biorhyme {
