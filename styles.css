@@ -13,6 +13,8 @@ header h1 {
     border: 1px solid white;
     width: 600px;
     margin: 0 auto;
+    margin-bottom: 50px;
+    padding-bottom: 10px;
 }
 
 .electricblue {
@@ -30,4 +32,25 @@ header h1 {
 
 .bloodred {
     background-color: #880808;
+}
+
+.fonts {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid white;
+    width: 600px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    padding-bottom: 10px;
+}
+
+.spacemono {
+    font-family: 'Space Mono';
+}
+
+.vollkorn {
+    font-family: 'Vollkorn';
+}
+
+.biorhyme {
+    font-family: 'BioRhyme';
 }
