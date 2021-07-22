@@ -54,3 +54,38 @@ header h1 {
 .biorhyme {
     font-family: 'BioRhyme';
 }
+
+.textstyles {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid white;
+    width: 600px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    padding-bottom: 25px;
+}
+
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
+
+#smexample {
+    font-family: 'Space Mono';
+}
+
+#vexample {
+    font-family: 'Vollkorn';
+}
+
+#brexample {
+    font-family: 'BioRhyme';
+}
+
+#vexample li {
+    font-size: 20px;
+}
+
+#brexample li {
+    font-size: 12px;
+}
